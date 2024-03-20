@@ -1,0 +1,6 @@
+@ProxyPeeker_HostAddress = https://localhost:7064
+
+GET {{ProxyPeeker_HostAddress}}/
+Accept: application/json
+
+###

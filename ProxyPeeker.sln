@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPeeker", "ProxyPeeker\ProxyPeeker.csproj", "{4C6AAFE1-CBC6-4D72-94CE-243C152A8363}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0412D585-4A37-40F4-B211-8A253E61C1B0}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6AAFE1-CBC6-4D72-94CE-243C152A8363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6AAFE1-CBC6-4D72-94CE-243C152A8363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6AAFE1-CBC6-4D72-94CE-243C152A8363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6AAFE1-CBC6-4D72-94CE-243C152A8363}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A7AA952-116F-487D-8D59-D2CB8C6B1123}
+	EndGlobalSection
+EndGlobal
